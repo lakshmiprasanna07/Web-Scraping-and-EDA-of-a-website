@@ -3,7 +3,7 @@
 This repository contains a project that is focused on web scraping and exploratory data analysis (EDA) on a specific website called "Faith Comes By Hearing". It does web scraping using beautifulsoup and requests and applied exploratory data analysis.
 
 ### How to Use This Respository
-**1.Clone the repository:** git clone https://github.com/lakshmiprasanna07/Web-Scraping-and-EDA-of-a-website.git
+**1.Clone the repository:** git clone https://github.com/lakshmiprasanna07/Web-Scraping-and-EDA-of-a-website.git and 
 cd Web-Scraping-and-EDA-of-a-website
 
 **2.Install Dependencies:** Install required Python libraries listed in the requirements.txt file
