@@ -1,0 +1,9 @@
+!pip install beautifulSoup4
+!pip install requests
+!pip install shutil
+!pip install pydub
+!pip install pandas
+!pip install numpy
+!pip install seaborn
+!pip install ydata-profiling
+!pip install textstat
